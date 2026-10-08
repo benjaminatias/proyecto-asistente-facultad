@@ -1,0 +1,18 @@
+# Entorno y secretos
+.venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Documentos de la facultad (no se suben al repo publico)
+docs_privados/
+
+# Base vectorial local (etapa 2)
+chroma_db/
+
+# Editor / sistema
+.vscode/
+.DS_Store
+Thumbs.db
